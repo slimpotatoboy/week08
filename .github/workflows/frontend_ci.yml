@@ -2,6 +2,7 @@
 
 name: Frontend CI - Build & Push Image
 
+#update to frontend ui
 on:
   # Manual trigger
   workflow_dispatch:
